@@ -1,6 +1,6 @@
 #RubyRspecTutorial
 
-My first ruby project. 
+My first ruby project.
 Features: Rspec tests Test Driven Development - yup i actually wrote the tests first
 
 	This is from a Ruby for Newbies Tutorial
