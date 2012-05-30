@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: Dev for Dummies
+  author: John Ryan
+  category: :development
+- !ruby/object:Book
+  title: Design for Dummies
+  author: John Ryan
+  category: :design
+- !ruby/object:Book
+  title: Dev for losers
+  author: Joe Ryan
+  category: :development
+- !ruby/object:Book
+  title: More Dev on Dev
+  author: Fred Ryan
+  category: :development
+- !ruby/object:Book
+  title: Smart Design for losers
+  author: Bill Ryan
+  category: :design
